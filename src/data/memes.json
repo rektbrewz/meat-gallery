@@ -1,0 +1,68 @@
+[
+  {
+    "id": "meat-muse",
+    "name": "Meat Muse",
+    "description": "Hold it high. The Meat mascot presents the word of the day.",
+    "media_url": "/memes/muse-meat.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-10T09:00:00.000Z",
+    "credit_name": "Meat",
+    "credit_url": "https://x.com/MeatMETAc/"
+  },
+  {
+    "id": "blue-meat",
+    "name": "Blue Meat, Lights Out",
+    "description": "Blue light, blankets up. Even the Meat mascot knows it is bedtime. Good night, anon.",
+    "media_url": "/memes/bluemeat.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-10T08:00:00.000Z",
+    "credit_name": "Meat",
+    "credit_url": "https://x.com/MeatMETAc/"
+  },
+  {
+    "id": "green-meat",
+    "name": "Green Meat, Lights Out",
+    "description": "The green twin of blue meat. Someone left the nightlight on.",
+    "media_url": "/memes/green-meat.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-10T07:00:00.000Z",
+    "credit_name": "Meat",
+    "credit_url": "https://x.com/MeatMETAc/"
+  },
+  {
+    "id": "zuck-poster",
+    "name": "ZUCK: MEAT MEAT MEAT",
+    "description": "Gold-plated propaganda poster. Meat. Meat. Meat. Diamond fist included.",
+    "media_url": "/memes/zuck-meat-poster.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-09T20:00:00.000Z",
+    "credit_name": "Meat",
+    "credit_url": "https://x.com/MeatMETAc/"
+  },
+  {
+    "id": "zuck-bbq",
+    "name": "Zuck, Backyard BBQ Mode",
+    "description": "When the timeline is on fire, Zuck fires up the smoker. Sweet Baby Ray's not included.",
+    "media_url": "/memes/sweet-baby-rays.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-09T18:00:00.000Z",
+    "credit_name": "Meat",
+    "credit_url": "https://x.com/MeatMETAc/"
+  },
+  {
+    "id": "meat-meta-1",
+    "name": "$MEAT = $META",
+    "description": "\"Of all my projects, this is the most delicious.\" -- Mark Zuckerberg, on his cattle ranch, Hawaii.",
+    "media_url": "/memes/delicious-meat-meta.jpg",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-09T10:00:00.000Z",
+    "credit_name": "Fly you Fools",
+    "credit_url": "https://x.com/Fly_you_fools/"
+  }
+]

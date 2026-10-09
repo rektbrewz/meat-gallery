@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #e9ebee;
+  color: #333333;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+  font-size: 11px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Retro scrollbar - flat grey, like old browser chrome */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #e9ebee;
+}
+::-webkit-scrollbar-thumb {
+  background: #c6c6c6;
+  border: 2px solid #e9ebee;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Hide scrollbar for modal */
+.modal-scroll::-webkit-scrollbar {
+  display: none;
+}
+.modal-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
