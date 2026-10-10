@@ -1,4 +1,15 @@
-[
+[ 
+  {
+    "id": "meat-character",
+    "name": "Meat Character",
+    "description": "Meat Character references the Meat mascot, a character that has been used in various memes and promotional materials.",
+    "media_url": "/memes/meat-character.png",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-11T09:00:00.000Z",
+    "credit_name": "not rekt",
+    "credit_url": "https://x.com/rektbrewz/"
+  },
   {
     "id": "meat-muse",
     "name": "Meat Muse",
